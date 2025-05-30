@@ -36,10 +36,3 @@ public class AudioManager: ObservableObject {
         isPlaying = false
     }
 }
-//
-//  AudioManager.swift
-//  WebNike
-//
-//  Created by Trương Đạt on 30/5/25.
-//
-
