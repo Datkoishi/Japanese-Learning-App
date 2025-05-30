@@ -1,8 +1,6 @@
-import WebNike
 import SwiftUI
 
-@main
-struct MainApp: App {
+struct WebNikeApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
